@@ -20,9 +20,3 @@ then
 	cd pocketsphinx-0.8 && ./configure && make && make install
 fi
 
-
-
-
-
-
-
